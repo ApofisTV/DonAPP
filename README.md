@@ -1,2 +1,2 @@
 # DonAPP
-App con VPN integrada
+App para Android con VPN integrada
